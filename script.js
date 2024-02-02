@@ -10,7 +10,7 @@ bodyEle.style.marginTop = '50px';
 let bodyText = document.createElement('h1');
 bodyText.innerText = "Aryan Kumar";
 bodyText.style.marginBottom = '20px';
-bodyText.style.color = '#333';
+bodyText.style.color = 'gray';
 bodyEle.appendChild(bodyText);
 
 let digitOne = document.createElement('input');
